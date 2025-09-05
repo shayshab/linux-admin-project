@@ -45,6 +45,7 @@ A structured, practical guide from beginner to advanced:
 - `src/configs/server.conf`: tune app/server parameters
 - `src/logs/README.md`: logging strategy and operations
 
+---
 ## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate documentation.
 
